@@ -51,4 +51,9 @@ Automated testing
 -Every time you push changes, GitHub Actions will automatically run tests and build the project.
 
 
+![home](https://github.com/user-attachments/assets/8bdac51c-413b-4fa2-a64d-6387c4b5442f)
 
+![home 2](https://github.com/user-attachments/assets/6c09f198-15cf-47db-b0e5-fa0e8e96eccf)
+![feed2](https://github.com/user-attachments/assets/f0f0aab1-b70c-492d-824b-2261f717f2e0)
+![play2](https://github.com/user-attachments/assets/365ed477-f465-4332-b86b-1100f81aa189)
+![clean2](https://github.com/user-attachments/assets/a1c32b53-0a8d-423b-917d-0153805d0840)
