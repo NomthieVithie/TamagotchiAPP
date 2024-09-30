@@ -2,5 +2,11 @@
     <string name="app_name">tamagotchiapp</string>
     <string name="txtWelcome">Welcome To Rex Your Tamagotchi App</string>
     <string name="btnGetStarted">Get Started</string>
+    <string name="btnFeed">Feed</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnClean">Clean</string>
+    <string name="txtHunger">Hunger</string>
+    <string name="txtClean">Clean</string>
+    <string name="txtHappy">Happy</string>
 
 </resources>
